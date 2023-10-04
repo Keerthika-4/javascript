@@ -1,2 +1,2 @@
 # javascript2
-programs
+Assignment programs
